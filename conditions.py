@@ -8,4 +8,4 @@ elif a <= 50:
 elif a <= 32:
     print("Wear a heavy coat.")
 elif a >= 32:
-    print("Stay insode.")
+    print("Stay inside.")
